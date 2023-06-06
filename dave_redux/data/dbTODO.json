@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "userId": 1,
+      "title": "Learn Shit",
+      "completed": true,
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Learn Piss",
+      "completed": true,
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "Fuck shit up",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "title": "Fuck more shit up",
+      "completed": true,
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "title": "Test Task #27",
+      "completed": false,
+      "id": 5
+    }
+  ]
+}
